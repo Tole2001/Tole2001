@@ -10,3 +10,10 @@
 ![Teodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tole2001&show_icons=true&theme=radical)
 
 
+
+# 📊 GitHub Stats:
+![Teodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tole2001&show_icons=true&theme=radical)
+
+
+
+
