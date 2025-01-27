@@ -1,6 +1,6 @@
  👋 Hi, I'm Teodor!
  
-👩‍💻 Software Engineering student at the University of Belgrade. My coding journey began with creating simple games in high school, and now I’m diving deeper into software, working on the side with game development and exploring AI. Currently experimenting with new tech, building projects, and pushing my skills in both coding and creativity—while always keeping the fun factor high. 🚀
+👩‍💻 Software Engineering graduate at the University of Belgrade. My coding journey began with creating simple games in high school, and now I’m diving deeper into software, working on the side with game development and exploring AI. Currently experimenting with new tech, building projects, and pushing my skills in both coding and creativity—while always keeping the fun factor high. 🚀
 
 
 <h3 align="left">Languages and Tools:</h3>
